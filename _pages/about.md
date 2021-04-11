@@ -4,6 +4,10 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+# Karrrr 🌱
 
-Feel free to tell the world about what you love! 😍
+Software enginieer and plant enthusiast.
+
+Member of Hackerspace Pomerania.
+
+Usually can be found near Baltic Sea.
