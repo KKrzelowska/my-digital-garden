@@ -6,8 +6,6 @@ permalink: /explore
 
 # Topics to explore 🌱
 
-[[cats]]
+[[randomness]]
 
-[[consistency]]
-
-[[move your body every day]]
+[[building process]]
