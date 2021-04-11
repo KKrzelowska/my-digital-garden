@@ -13,6 +13,8 @@ I want to store different topics in one place in structured manner.
 
 Feel free to explore [[explore]]
 
+<img src="/assets/nyanko.jpg">
+
 <style>
   .wrapper {
     max-width: 46em;
