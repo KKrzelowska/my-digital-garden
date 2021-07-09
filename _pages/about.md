@@ -4,10 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Karrrr 🌱
+# About the author
 
-Software enginieer and plant enthusiast.
-
-Member of Hackerspace Pomerania.
-
-Usually can be found near Baltic Sea.
+hi, I am Karo

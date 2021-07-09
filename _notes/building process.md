@@ -2,18 +2,10 @@
 title: how to build things
 ---
 
-Strength of certainty and wisdom of uncertainty
+Tutorial.
 
-Building requires time
+I would like to present my recent project, and discuss an approach that could be gained toward anything that will speed up
+learning process.
 
-It's slow but stable process
-
-With it's own end and shape
-
-My mistakes gave me strength to survive
-
-World that we live in, that we stomp on
-
-We seem to be too weak to defend it
 
 
