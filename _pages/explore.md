@@ -5,8 +5,7 @@ permalink: /explore
 ---
 
 # Topics to explore 🌱
-
-If you want to search by the category: [[about]]
+If you want to search by the category: [[categories]]
 
 Random notes:
 
