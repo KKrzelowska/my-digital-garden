@@ -1,5 +1,5 @@
 ---
-title: kobiety_it
+title: kobiety it
 ---
 ## Kobiety w IT
 
