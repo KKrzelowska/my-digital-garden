@@ -25,18 +25,19 @@ Zapraszamy do udziału w spotkaniu Kobiety w IT!
 Czas poświęcimy na wspólnej nauce i wymianie doświadczeń w kobiecym gronie.
 Będzie możliwość wzięcia udziału w dyskusji, wymiany kontaktów jak i dzielenia się
 wsparciem i motywacją.
-Jeśli chcesz doskonalić swoje umiejętności komunikacji, jak i pogłębić wiedzę na temat
-zarządzania projektami, programowania lub projektowania usług to wydarzenie jest dla Ciebie!
+Pochylimy się nad takimi zgadnieniami jak skuteczne techniki zarządzania projektami,
+współpraca ze stakeholderami, znaczenie retrospektywy, czy metod 5x dlaczego.
+Jeśli chcesz doskonalić swoje umiejętności komunikacji, jak i pogłębić wiedzę na powyższe tematy to wydarzenie jest dla Ciebie!
 
 Nie może Cię zabraknąć!
 
 ### Trzecia wersja
 
-Motywacja: Wymiana doswiadczeń i wiedzy, kontakty, ciasto
+Motywacja: Wymiana doswiadczeń i wiedzy, kontakty, ciasto, wzajemne wsparcie i wzrost
 
 Dlaczego: Tworzenie przyjażni i przestrzeń do dzielenia się wiedzą
 
-Po co: Wzajemne wsparcie i wzrost
+Tematy: Skuteczna komunikacja, współprace między stakeholderami, zarządzanie projektami, retrospektywa 
 
 Dla kogo: Pasjonatki zarządzania projektami, programowania i kreatywne dusze
 
