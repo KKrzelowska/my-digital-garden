@@ -8,6 +8,7 @@ permalink: /
 # Hi! 🌱
 
 welcome in krzelo's garden.
+
 By garden I mean digital notebook with notes that are intertwined with each other with permalinks.
 
 Feel free to explore [[explore]]
