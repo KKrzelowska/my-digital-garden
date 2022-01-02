@@ -1,5 +1,5 @@
 ---
-title: sklamanie_przeczytania_lodu
+title: sklamanie przeczytania lodu
 ---
 
 ### Abstract
