@@ -25,6 +25,7 @@ Zapraszamy do udziału w spotkaniu Kobiety w IT!
 Czas poświęcimy na wspólnej nauce i wymianie doświadczeń w kobiecym gronie.
 Będzie możliwość wzięcia udziału w dyskusji, wymiany kontaktów jak i dzielenia się
 wsparciem i motywacją.
+
 Pochylimy się nad takimi zgadnieniami jak skuteczne techniki zarządzania projektami,
 współpraca ze stakeholderami, znaczenie retrospektywy, czy metod 5x dlaczego.
 Jeśli chcesz doskonalić swoje umiejętności komunikacji, jak i pogłębić wiedzę na powyższe tematy to wydarzenie jest dla Ciebie!
