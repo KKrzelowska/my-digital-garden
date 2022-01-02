@@ -8,4 +8,6 @@ permalink: /explore
 
 [[randomness]]
 
-[[building process]]
+[[kobiety_it]]
+
+[[sklamanie_przeczytania_lodu]]
