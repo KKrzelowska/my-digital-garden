@@ -38,8 +38,9 @@ Motywacja: Wymiana doswiadczeń i wiedzy, kontakty, ciasto, wzajemne wsparcie i 
 
 Dlaczego: Tworzenie przyjażni i przestrzeń do dzielenia się wiedzą
 
+Dla kogo: Pasjonatki zarządzania projektami, programowania i kreatywne dusze
+
 Tematy: Skuteczna komunikacja, współpraca między stakeholderami, zarządzanie projektami, retrospektywa 
 
-Dla kogo: Pasjonatki zarządzania projektami, programowania i kreatywne dusze
 
 
