@@ -32,7 +32,7 @@ Nie może Cię zabraknąć!
 
 ### Trzecia wersja
 
-Motywacja: Wymiana doswiadczeń i wiedzy, ciasto, kontakty
+Motywacja: Wymiana doswiadczeń i wiedzy, kontakty, ciasto
 
 Dlaczego: Tworzenie przyjażni i przestrzeń do dzielenia się wiedzą
 
@@ -41,4 +41,3 @@ Po co: Wzajemne wsparcie i wzrost
 Dla kogo: Pasjonatki zarządzania projektami, programowania i kreatywne dusze
 
 
-### Czwarta wersja
