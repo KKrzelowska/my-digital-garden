@@ -11,6 +11,6 @@ Random notes:
 
 [[randomness]]
 
-[[kobiety_it]]
+[[kobiety it]]
 
-[[sklamanie_przeczytania_lodu]]
+[[sklamanie przeczytania lodu]]
