@@ -4,10 +4,32 @@ title: About
 permalink: /about
 ---
 
-# Karrrr 🌱
+# Krzelo 🌱
 
-Software enginieer and plant enthusiast.
+software
 
-Member of Hackerspace Pomerania.
+processes
 
-Usually can be found near Baltic Sea.
+management
+
+plants
+
+sailing
+
+books
+
+projects
+
+talks
+
+communication
+
+conferences
+
+places
+
+people
+
+organisation
+
+reality hacking
