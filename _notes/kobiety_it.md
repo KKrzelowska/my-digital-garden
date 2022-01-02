@@ -3,15 +3,15 @@ title: kobiety_it
 ---
 ## Kobiety w IT
 
-### Pierwsza wersja tekstu - Czego się spodziewać
+### Pierwsza wersja
 
 Pierwsze spotkanie Kobiety w IT poświęcone będzie umiejętnościom miękkim niezbędnym do pracy zespołowej.
 
-Chcemy mówić o technikach usprawniających wspólną pracę w projekcie.
-Będziemy omawiać takie techniki jak retrospektywa, 5x dlaczego, jak ważna jest celebracja w prowadzeniu projektu.
+Chcemy mówić o metodach usprawniających wspólną pracę w projekcie.
+Będziemy omawiać takie techniki jak retrospektywa, 5x dlaczego, oraz jak ważna jest celebracja w prowadzeniu projektu.
 Nauczymy się jak lepiej dogadywać się z ludźmi, a w pracy z naszymi klientami.
 
-Zapraszmay do dołączenia do rozmowy i podzielenia się swoimi spostrzeżeniami podczas panelu dyskusyjnego.
+Zachęcamy do podzielenia się swoimi spostrzeżeniami podczas panelu dyskusyjnego.
 
 Do zobaczenia!
 
