@@ -4,30 +4,30 @@ title: categories
 
 # Krzelo’s categories 🌱
 
-software
+[[software]]
 
-processes
+[[processes]]
 
-management
+[[management]]
 
-plants
+[[plants]]
 
-sailing
+[[sailing]]
 
-books
+[[books]]
 
-projects
+[[projects]]
 
-talks
+[[talks]]
 
-communication
+[[communication]]
 
-conferences
+[[conferences]]
 
-places
+[[places]]
 
-people
+[[people]]
 
-organisation
+[[organisation]]
 
-reality hacking
+[[reality hacking]]
