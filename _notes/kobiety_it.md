@@ -26,8 +26,8 @@ Czas poświęcimy na wspólnej nauce i wymianie doświadczeń w kobiecym gronie.
 Będzie możliwość wzięcia udziału w dyskusji, wymiany kontaktów jak i dzielenia się
 wsparciem i motywacją.
 
-Pochylimy się nad takimi zgadnieniami jak skuteczne techniki zarządzania projektami,
-współpraca ze stakeholderami, znaczenie retrospektywy, czy metod 5x dlaczego.
+Pochylimy się nad takimi zgadnieniami jak techniki zarządzania projektami,
+skuteczna współpraca ze stakeholderami, jak i znaczeniu celebracji w pracy zespołowej.
 Jeśli chcesz doskonalić swoje umiejętności komunikacji, jak i pogłębić wiedzę na powyższe tematy to wydarzenie jest dla Ciebie!
 
 Nie może Cię zabraknąć!
@@ -40,7 +40,7 @@ Dlaczego: Tworzenie przyjażni i przestrzeń do dzielenia się wiedzą
 
 Dla kogo: Pasjonatki zarządzania projektami, programowania i kreatywne dusze
 
-Tematy: Skuteczna komunikacja, współpraca między stakeholderami, zarządzanie projektami, retrospektywa 
+Tematy: Skuteczna komunikacja, współpraca z klientami, zarządzanie projektami 
 
 
 
