@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Krzelo 🌱
+# Krzelo's categories 🌱
 
 software
 
