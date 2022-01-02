@@ -3,33 +3,16 @@ layout: page
 title: About
 permalink: /about
 ---
+# Krzelo
 
-# Krzelo's categories 🌱
+I like to connect people, dots and ideas.
 
-software
+Sometimes I am playing with software but I see it rather as a tool, and not purpose.
 
-processes
+Of course I don't need purpose in every type of stuff beacuse the best things in life are random and kind of absurd.
 
-management
+So I am absurd surfer.
 
-plants
+# Krzelo's topics 🌱
 
-sailing
-
-books
-
-projects
-
-talks
-
-communication
-
-conferences
-
-places
-
-people
-
-organisation
-
-reality hacking
+[[categories]]
