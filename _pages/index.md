@@ -5,11 +5,10 @@ id: home
 permalink: /
 ---
 
-# Welcome to Karo's garden! 🌱
+# Hi! 🌱
 
-This is a place for thoughts and ideas. 
-
-I want to store different topics in one place in structured manner.
+welcome in krzelo's garden.
+By garden I mean digital notebook with notes that are intertwined with each other with permalinks.
 
 Feel free to explore [[explore]]
 
