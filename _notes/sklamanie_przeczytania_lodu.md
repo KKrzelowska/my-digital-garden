@@ -4,16 +4,14 @@ title: sklamanie przeczytania lodu
 
 ### Abstract
 
-Lód jest 1000 stronicową książką Jacka Dukaja.
-Mówi o prawdzie i kłamstwie. Lecie i Zimie.
-Mówi o tym że kłamstwo jest prawdziwsze od prawdy,
-że w kłamstwie istniejemy bardziej.
-Mówi o ludziach którzy nie istnieją bo pozostają we władzy wstydu.
-Mówi o ludziach którzy zaistnieli bo postępowali wbrew wstydowi.
+Czy kłamstwo jest inherentnie złe?
+Czy nazwanie kogoś kłamcą jest obelgą? Dzisiaj chciałabym opowiedzieć o tym koncepcie na podstawie książki Jacka Dukaja "Lód".
+Mam nadzieję, że poprzez napisanie krótkiego eseju, będe mogła was skłamać w przeczytanie lodu.
 
-Lód jest książką przełomową bo zawiera w sobie opis błędu w kodzie naszej rzeczywistości.
-Możemy wykorzystać tą luke żeby zaginać rzeczywistość tak żeby nam służyła.
-Zapraszam do lektury!
+A więc zacznijmy od opisania konceptów, które skłoniły mnie to zagłębienia się w lekturę.
+Prawdzie i kłamstwie. Lecie i Zimie. Dualiźmie świata przedstawionego.
+W kłamstwie istniejemy bardziej.
+
 
 
 ### Opis
